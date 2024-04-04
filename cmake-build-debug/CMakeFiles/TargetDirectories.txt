@@ -1,0 +1,3 @@
+D:/Studia/Semestr II/progi/Clusters/cmake-build-debug/CMakeFiles/Clusters.dir
+D:/Studia/Semestr II/progi/Clusters/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/Studia/Semestr II/progi/Clusters/cmake-build-debug/CMakeFiles/rebuild_cache.dir
