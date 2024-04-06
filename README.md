@@ -1,5 +1,14 @@
 # Clusters
 A simple program counting areas with different shades.
 
-Input accepts only files in formats .pbm and .pgm.
+Input accepts only formats .pbm and .pgm.
 
+### Example:
+  program arguments: `../prog.pgm`
+  ![Example img][prog]
+  output
+  ![Output][output]
+
+
+[output]: https://github.com/PiotrZycki/Clusters/assets/96142056/1b97c444-8ec9-4f07-a515-7a2d15ff3977
+[prog]: https://github.com/PiotrZycki/Clusters/assets/96142056/2886ea95-6a02-4e3d-8dba-8f9ad3f4fb0b
