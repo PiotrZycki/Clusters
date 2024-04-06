@@ -5,17 +5,17 @@ Input accepts only formats .pbm and .pgm.
 
 ### Example:
 
-  file: prog.pgm
+  *  file: prog.pgm
   
-  ![Example img][prog] 
+     ![Example img][prog] 
   
-
-  Program arguments: 
-  `../prog.pgm`
   
-  output
+  *  Program arguments: 
+     `../prog.pgm`
   
-  ![Output][output]
+  *  output
+  
+     ![Output][output]
 
 
 [output]: https://github.com/PiotrZycki/Clusters/assets/96142056/1b97c444-8ec9-4f07-a515-7a2d15ff3977
