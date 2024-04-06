@@ -11,6 +11,7 @@ Input accepts only formats .pbm and .pgm.
   `../prog.pgm`
   
   output
+  
   ![Output][output]
 
 
