@@ -4,9 +4,13 @@ A simple program counting areas with different shades.
 Input accepts only formats .pbm and .pgm.
 
 ### Example:
-  program arguments: `../prog.pgm`
+  Program arguments: 
+  `../prog.pgm`
+  
   ![Example img][prog]
+  
   output
+  
   ![Output][output]
 
 
