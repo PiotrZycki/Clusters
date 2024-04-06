@@ -5,7 +5,7 @@ Input accepts only formats .pbm and .pgm.
 
 ### Example:
 
-  *  file: prog.pgm
+  *  File: prog.pgm
   
      ![Example img][prog] 
   
@@ -13,7 +13,7 @@ Input accepts only formats .pbm and .pgm.
   *  Program arguments: 
      `../prog.pgm`
   
-  *  output
+  *  Output:
   
      ![Output][output]
 
