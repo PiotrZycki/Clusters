@@ -5,8 +5,10 @@ Input accepts only formats .pbm and .pgm.
 
 ### Example:
 
+  file: prog.pgm
+  
   ![Example img][prog] 
-    (prog.pgm)
+  
 
   Program arguments: 
   `../prog.pgm`
